@@ -1,0 +1,2 @@
+# SolvixCalculator
+Solvix test task.
